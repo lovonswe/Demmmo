@@ -1,1 +1,0 @@
-This is teacher file added to gitignore and not supposed to be pushed to remote repo
